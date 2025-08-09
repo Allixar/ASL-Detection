@@ -21,10 +21,14 @@ pip install -r requirements.txt
 **requirements.txt**
 ```
 opencv-python
-numpy
 mediapipe
-pyttsx3
-tensorflow
+tensorflow==2.16.1
+Pillow
+numpy
+pandas
+seaborn
+scikit-learn
+matplotlib
 ```
 
 > If you need extra OpenCV modules, use:
