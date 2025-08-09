@@ -28,6 +28,7 @@ pandas
 seaborn
 scikit-learn
 matplotlib
+mediapipe==0.10.14
 ```
 
 > If you need extra OpenCV modules, use:
