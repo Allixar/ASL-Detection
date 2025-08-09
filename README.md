@@ -8,7 +8,6 @@ A Python-based American Sign Language (ASL) hand gesture recognition system that
 - **MediaPipe hand tracking** for accurate landmark detection
 - **TensorFlow Lite model** for fast, on-device gesture classification
 - **Data logging** for collecting new training samples
-- **FPS monitoring** for performance tracking
 - **Visual feedback** with bounding boxes, finger outlines, and gesture labels
 
 ## Requirements
