@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21698367/README.md)
 # ASL to Speech Detection
 
 A Python-based American Sign Language (ASL) hand gesture recognition system that converts recognized signs into speech. Built using **OpenCV**, **MediaPipe**, **TensorFlow Lite**, and **pyttsx3**, it can operate in real time from a webcam or process images from a dataset.
